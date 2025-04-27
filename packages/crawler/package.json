@@ -1,0 +1,21 @@
+{
+  "name": "@midscene/crawler",
+  "version": "0.1.0",
+  "description": "Web crawler implementation for Midscene",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+  },
+  "dependencies": {
+    "@midscene/core": "workspace:*",
+    "@midscene/shared": "workspace:*",
+    "@types/fs-extra": "^11.0.4",
+    "fs-extra": "^11.2.0",
+    "playwright": "^1.42.1",
+    "puppeteer": "^24.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "typescript": "^5.3.3"
+  }
+}
