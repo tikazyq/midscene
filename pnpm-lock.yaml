@@ -508,6 +508,9 @@ importers:
       '@midscene/shared':
         specifier: workspace:*
         version: link:../shared
+      '@midscene/web':
+        specifier: workspace:*
+        version: link:../web-integration
       '@types/fs-extra':
         specifier: ^11.0.4
         version: 11.0.4

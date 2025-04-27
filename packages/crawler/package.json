@@ -9,6 +9,7 @@
   "dependencies": {
     "@midscene/core": "workspace:*",
     "@midscene/shared": "workspace:*",
+    "@midscene/web": "workspace:*",
     "@types/fs-extra": "^11.0.4",
     "fs-extra": "^11.2.0",
     "playwright": "^1.42.1",
